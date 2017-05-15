@@ -1,0 +1,6 @@
+string.new
+Queue<string>.new
+StreamReader.new
+StreamReader.ReadLine
+Queue<string>.Enqueue
+StreamReader.Close
